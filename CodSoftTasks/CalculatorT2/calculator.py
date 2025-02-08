@@ -1,6 +1,6 @@
 from colorama import Fore,Style
 
-# Basic Calculator Operation Functions
+# Basic Calculator Operations
 
 def Addition(a, b):
     return a+b
